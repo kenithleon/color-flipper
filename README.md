@@ -4,12 +4,12 @@ A simple **Color Flipper app** built using **HTML, CSS, and JavaScript**.
 Click on any button to change the background to that color or choose **RANDOM** to generate a random background color.  
 
 ## 🚀 Live Demo  
-[Click here to view the demo](https://yourusername.github.io/color-flipper/)  
+[Click here to view the demo](https://kenithleon.github.io/color-flipper/)  
 
 
 
 ## 📸 Preview  
-![App Screenshot](screenshot.png)  
+![App Screenshot](https://github.com/kenithleon/color-flipper/blob/88c47c15da0fa5f3d81bc346cb1622e2ac35dd2e/Screenshot%202025-09-07%20093952.png)  
 
 
 ## ✨ Features  
